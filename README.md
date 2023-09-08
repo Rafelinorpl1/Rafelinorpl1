@@ -1,3 +1,4 @@
+
 # Hi, I'm Rafelino 👋🏾 👩🏾‍💻
 
 <img src="https://smkprestasiprima.sch.id/wp-content/uploads/2023/06/BG-1.jpg" alt="">
@@ -8,7 +9,7 @@ bahkan yang saya ketahui, semua itu semata-mata agar saya tidak lupa.
 ## Find me around the web 🌎:
 - Pelajar di <a href="https://smkprestasiprima.sch.id/">SMK PRESTASI PRIMA</a>✍🏾
 - Website <a href="https://rtd.codegeek.my.id"> Codegeek</a> 🏓
-- Social Media <a href=>https://www.instagram.com/rafellandka/>Instagram</a> 💼
+- Social Media <a href=https://www.instagram.com/rafellandka/)>Instagram</a> 💼
 
 ## 💼 Technical Skills
 
