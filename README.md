@@ -8,9 +8,5 @@ bahkan yang saya ketahui, semua itu semata-mata agar saya tidak lupa.
 
 ## Find me around the web 🌎:
 - Pelajar di <a href="https://smkprestasiprima.sch.id/">SMK PRESTASI PRIMA</a>✍🏾
-- Website <a href="https://rtd.codegeek.my.id"> Codegeek</a> 🏓
 - Social Media <a href=https://www.instagram.com/rafellandka/)>Instagram</a> 💼
 
-## 💼 Technical Skills
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinory&theme=buefy&hide=css,html)
