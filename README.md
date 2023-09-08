@@ -1,7 +1,7 @@
 
 # Hi, I'm Rafelino 👋🏾 👩🏾‍💻
 
-<img src="(https://github.com/Rafelinorpl1/Rafelinorpl1/assets/144409963/191e25bc-38a4-4e3c-8686-875a4aae3da0)"
+<img src="https://www.laptopsiipat.com/2019/01/smk-prestasi-prima-sekolah-berbasis-it.html"
 alt="">
 Halo, Saya Rafelino! Pelajar dari Jakarta Timur, seorang pelajar yang sangat kecanduan dengan komputer dan internet namun masih awam dengan hal itu.
 Saya suka menjelajahi tentang programming, hacking, dan linux namun saya sering lupa maka karna itu saya menulis, saya suka menulis untuk men-dokumentasikan beberapa hal yang baru saya pelajari
